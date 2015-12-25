@@ -85,7 +85,7 @@ shinyUI(pageWithSidebar(
         code('NOTE: You must click the "CALCULATE CHARACTERISTICS" everytime you want to display updated results'),
     br(), br(), 
         h3('Link to server.R and ui.R codes at github'),
-        p('www.teeedinchai.com'),
+        p('https://github.com/teedinchai/m9_DDP'),
     br(),
       h4('Hope you enjoy this simple application !')
                
